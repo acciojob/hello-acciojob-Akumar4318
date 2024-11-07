@@ -1,9 +1,10 @@
 
 /* Your CSS Code here. */
-.accio{
+.accio#job{
 	width:150px;
 	height:150px:
-	background-color:black;
+	background-color:rgb(0, 0, 0);
+
 }
 .hello-accio{
 	color:"#ffffff";
